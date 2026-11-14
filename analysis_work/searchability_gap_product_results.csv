@@ -1,0 +1,205 @@
+loves_rank,product_id,brand_name,product_name,primary_category,loves_count,recovery_status,best_variant_type,best_keyword,avg_monthly_searches_range,search_lower,search_upper,search_midpoint,three_month_change,yoy_change,competition,cpc_low,cpc_high,estimated_variant_count
+1,P97989778,Rare Beauty by Selena Gomez,Soft Pinch Liquid Blush,Makeup,1401068,Estimate recovered,Nickname,rare beauty blush,10K - 25K,10000.0,25000.0,17500.0,-0.1,0.05,High,0.72,1.38,1
+24,P434104,Charlotte Tilbury,Hollywood Flawless Filter,Makeup,496092,Estimate recovered,Nickname,charlotte tilbury flawless filter,10K - 25K,10000.0,25000.0,17500.0,0.67,0.66,High,0.49,0.85,1
+22,P456151,Kosas,Revealer Super Creamy + Brightening Concealer and Daytime Eye Cream,Makeup,513855,Estimate recovered,Nickname,kosas concealer,5K - 10K,5000.0,10000.0,7500.0,-0.38,-0.02,High,0.55,1.0,2
+3,P281411,SEPHORA COLLECTION,Cream Lip Stain Liquid Lipstick,Makeup,1029051,Estimate recovered,Nickname,sephora lip stain,1K - 5K,1000.0,5000.0,3000.0,-0.44,-0.06,High,0.2,0.57,1
+4,P67988453,Fenty Beauty by Rihanna,Gloss Bomb Universal Lip Luminizer,Makeup,968317,Estimate recovered,Nickname,fenty gloss bomb,1K - 5K,1000.0,5000.0,3000.0,-0.15,-0.26,High,,,1
+7,P109908,Laura Mercier,Translucent Loose Setting Powder,Makeup,813497,Estimate recovered,Nickname,laura mercier setting powder,1K - 5K,1000.0,5000.0,3000.0,0.48,0.06,High,0.35,0.55,1
+8,P427417,The Ordinary,Niacinamide 10% + Zinc 1% Oil Control Serum,Skincare,763168,Estimate recovered,Nickname,the ordinary niacinamide,1K - 5K,1000.0,5000.0,3000.0,-0.44,-0.54,High,0.29,0.61,1
+9,P427419,The Ordinary,Hyaluronic Acid 2% + B5 Hydrating Serum,Skincare,720504,Estimate recovered,Nickname,the ordinary hyaluronic acid,1K - 5K,1000.0,5000.0,3000.0,-0.33,-0.2,High,0.29,0.6,1
+10,P263504,Urban Decay,All Nighter Long-Lasting Makeup Setting Spray,Makeup,652806,Estimate recovered,Nickname,urban decay all nighter,1K - 5K,1000.0,5000.0,3000.0,-0.79,1.23,High,,,1
+12,P393401,Armani Beauty,Luminous Silk Perfect Glow Flawless Oil-Free Foundation,Makeup,622995,Estimate recovered,Nickname,armani luminous silk,1K - 5K,1000.0,5000.0,3000.0,-0.19,-0.56,High,0.39,1.2,1
+19,P442563,The Ordinary,AHA 30% + BHA 2% Exfoliating Peeling Solution,Skincare,533877,Estimate recovered,Nickname,the ordinary peeling solution,1K - 5K,1000.0,5000.0,3000.0,-0.4,-0.05,High,0.25,0.43,1
+27,P186805,Dior,Dior Addict Lip Maximizer Plumping Gloss,Makeup,482461,Estimate recovered,Nickname,dior lip maximizer,1K - 5K,1000.0,5000.0,3000.0,-0.16,-0.59,High,0.49,0.93,1
+30,P64879845,Fenty Beauty by Rihanna,Killawatt Freestyle Highlighter,Makeup,472069,Estimate recovered,Nickname,fenty killawatt highlighter,1K - 5K,1000.0,5000.0,3000.0,-0.3,0.4,High,0.14,0.14,1
+31,P406080,Sol de Janeiro,Brazilian Bum Bum Body Cream,Bath & Body,470934,Estimate recovered,Nickname,bum bum cream,1K - 5K,1000.0,5000.0,3000.0,-0.14,-0.32,High,0.3,0.57,1
+32,P397517,Too Faced,Born This Way Natural Finish Longwear Liquid Foundation,Makeup,465412,Estimate recovered,Nickname,born this way foundation,1K - 5K,1000.0,5000.0,3000.0,-0.43,-0.85,High,0.3,0.3,1
+37,P422077,NARS,Mini Radiant Creamy Concealer,Mini Size,444366,Estimate recovered,Nickname,nars radiant creamy concealer,1K - 5K,1000.0,5000.0,3000.0,-0.75,,High,,,1
+47,P411387,Youth To The People,Superfood Antioxidant Cleanser,Skincare,404142,Estimate recovered,Nickname,youth to the people cleanser,1K - 5K,1000.0,5000.0,3000.0,-0.21,1.89,High,0.42,0.68,1
+48,P417238,Farmacy,Green Clean Makeup Removing Cleansing Balm,Skincare,403801,Estimate recovered,Nickname,farmacy green clean,1K - 5K,1000.0,5000.0,3000.0,0.64,3.5,High,0.68,0.68,1
+49,P455418,ILIA,Super Serum Skin Tint SPF 40 Foundation,Makeup,398628,Estimate recovered,Nickname,ilia skin tint,1K - 5K,1000.0,5000.0,3000.0,-0.16,-0.3,High,0.41,0.65,1
+50,P253818,stila,Stay All Day Waterproof Liquid Eye Liner,Makeup,398429,Estimate recovered,Nickname,stila eyeliner,1K - 5K,1000.0,5000.0,3000.0,1.07,0.03,High,0.09,0.48,1
+51,P466123,Glow Recipe,Watermelon Glow Niacinamide Dew Drops,Skincare,389213,Estimate recovered,Nickname,glow recipe dew drops,1K - 5K,1000.0,5000.0,3000.0,-0.48,-0.53,High,0.31,0.61,1
+52,P458268,Charlotte Tilbury,Mini Pillow Talk Lipstick & Liner Set,Makeup,388911,Estimate recovered,Nickname,charlotte tilbury pillow talk lipstick,1K - 5K,1000.0,5000.0,3000.0,-0.46,6.17,High,,,1
+53,P441101,Tatcha,The Dewy Skin Cream Plumping & Hydrating Moisturizer,Skincare,388775,Estimate recovered,Nickname,tatcha dewy skin cream,1K - 5K,1000.0,5000.0,3000.0,0.62,0.52,High,0.58,0.99,1
+56,P418218,Tatcha,The Water Cream Oil-Free Pore Minimizing Moisturizer,Skincare,373877,Estimate recovered,Nickname,tatcha water cream,1K - 5K,1000.0,5000.0,3000.0,1.64,1.11,High,0.46,0.71,1
+66,P432500,Dior,BACKSTAGE Face & Body Foundation,Makeup,329288,Estimate recovered,Nickname,dior backstage foundation,1K - 5K,1000.0,5000.0,3000.0,0.02,-0.14,High,0.8,1.62,1
+68,P432668,Drunk Elephant,D-Bronzi Anti-Pollution Bronzing Drops with Peptides,Skincare,328059,Estimate recovered,Nickname,drunk elephant bronzing drops,1K - 5K,1000.0,5000.0,3000.0,-0.12,-0.96,High,,,1
+72,P441813,MILK MAKEUP,Hydro Grip Hydrating Makeup Primer,Makeup,325001,Estimate recovered,Nickname,milk hydro grip primer,1K - 5K,1000.0,5000.0,3000.0,-0.33,0.26,High,0.26,0.32,1
+78,P427301,NARS,Natural Radiant Longwear Foundation,Makeup,308305,Estimate recovered,Nickname,nars radiant foundation,1K - 5K,1000.0,5000.0,3000.0,-0.36,-0.69,High,,,1
+81,P448869,Charlotte Tilbury,Airbrush Flawless Longwear Foundation,Makeup,304583,Estimate recovered,Nickname,charlotte tilbury airbrush flawless foundation,1K - 5K,1000.0,5000.0,3000.0,-0.45,7.52,High,0.14,0.31,1
+84,P447376,Olaplex,No. 7 Bonding Hair Oil,Hair,302328,Estimate recovered,Nickname,olaplex no 7 bonding oil,1K - 5K,1000.0,5000.0,3000.0,-0.59,-0.36,High,,,1
+95,P229406,Too Faced,Chocolate Soleil Matte Bronzer,Makeup,286081,Estimate recovered,Nickname,too faced chocolate soleil bronzer,1K - 5K,1000.0,5000.0,3000.0,-0.16,-0.67,High,0.29,0.35,1
+141,P305132,Buxom,Full-On Plumping Lip Cream Gloss,Makeup,241538,Estimate recovered,Nickname,buxom lip gloss,1K - 5K,1000.0,5000.0,3000.0,0.36,-0.7,High,0.27,0.47,1
+179,P302923,NARS,Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30,Makeup,207445,Estimate recovered,Nickname,nars pure radiant tinted moisturizer,1K - 5K,1000.0,5000.0,3000.0,-0.43,2.9,High,0.07,0.07,1
+2,P420652,LANEIGE,Lip Sleeping Mask Intense Hydration with Vitamin C,Skincare,1081315,Still no estimate,,,,,,,,,,,,0
+5,P87985432,Fenty Beauty by Rihanna,Pro Filt’r Soft Matte Longwear Liquid Foundation,Makeup,856497,Still no estimate,,,,,,,,,,,,0
+6,P202633,Anastasia Beverly Hills,Brow Wiz Ultra-Slim Precision Brow Pencil,Makeup,834189,Still no estimate,,,,,,,,,,,,0
+11,P378284,Estée Lauder,Double Wear Stay-in-Place Foundation,Makeup,639063,Still no estimate,,,,,,,,,,,,0
+13,P384060,Anastasia Beverly Hills,"DIPBROW Waterproof, Smudge Proof Brow Pomade",Makeup,617437,Still no estimate,,,,,,,,,,,,0
+14,P404832,Anastasia Beverly Hills,Eye Shadow Singles,Makeup,605038,Still no estimate,,,,,,,,,,,,0
+15,P409523,Urban Decay,Vice Hydrating Lipstick,Makeup,593515,Still no estimate,,,,,,,,,,,,0
+16,P245205,KVD Beauty,Tattoo Liner Vegan Waterproof Liquid Eyeliner,Makeup,566585,Still no estimate,,,,,,,,,,,,0
+17,P133707,Urban Decay,24/7 Glide-On Waterproof Eyeliner Pencil,Makeup,543118,Still no estimate,,,,,,,,,,,,0
+18,P427406,The Ordinary,Glycolic Acid 7% Exfoliating Toning Solution,Skincare,542743,Still no estimate,,,,,,,,,,,,0
+20,P381000,Too Faced,Better Than Sex Volumizing & Lengthening Mascara,Makeup,532085,Still no estimate,,,,,,,,,,,,0
+21,P428224,Olaplex,No. 3 Hair Repair Perfector,Hair,527201,Still no estimate,,,,,,,,,,,,0
+23,P432298,Too Faced,Born This Way Super Coverage Multi-Use Longwear Concealer,Makeup,501464,Still no estimate,,,,,,,,,,,,0
+25,P39787544,Fenty Beauty by Rihanna,Stunna Lip Paint Longwear Fluid Lip Color,Makeup,486935,Still no estimate,,,,,,,,,,,,0
+26,P433526,Charlotte Tilbury,Airbrush Flawless Finish Setting Powder,Makeup,484780,Still no estimate,,,,,,,,,,,,0
+28,P38855877,Rare Beauty by Selena Gomez,Positive Light Liquid Luminizer Highlight,Makeup,481509,Still no estimate,,,,,,,,,,,,0
+29,P18975403,Fenty Beauty by Rihanna,Match Stix Matte Contour Skinstick,Makeup,480967,Still no estimate,,,,,,,,,,,,0
+33,P174213,Buxom,Full-On Plumping Lip Polish Gloss,Makeup,464024,Still no estimate,,,,,,,,,,,,0
+34,P63087293,stila,Glitter & Glow Liquid Eye Shadow,Makeup,462133,Still no estimate,,,,,,,,,,,,0
+35,P409118,Anastasia Beverly Hills,Modern Renaissance Eye Shadow Palette,Makeup,460449,Still no estimate,,,,,,,,,,,,0
+36,P444154,Charlotte Tilbury,Beauty Highlighter Wand,Makeup,450495,Still no estimate,,,,,,,,,,,,0
+38,P228913,beautyblender,ORIGINAL BEAUTYBLENDER Makeup Sponge,Makeup,438045,Still no estimate,,,,,,,,,,,,0
+39,P430932,SEPHORA COLLECTION,Sephora Colorful Eyeshadow,Makeup,437510,Still no estimate,,,,,,,,,,,,0
+40,P433516,Charlotte Tilbury,Lip Cheat Lip Liner,Makeup,436721,Still no estimate,,,,,,,,,,,,0
+41,P309813,Urban Decay,24/7 Eyeshadow,Makeup,426543,Still no estimate,,,,,,,,,,,,0
+42,P424915,SEPHORA COLLECTION,#LIPSTORIES Lipstick,Makeup,424829,Still no estimate,,,,,,,,,,,,0
+43,P78834,NARS,Velvet Matte Lipstick Pencil,Makeup,422598,Still no estimate,,,,,,,,,,,,0
+44,P384099,Urban Decay,Naked3 Eyeshadow Palette,Makeup,420808,Still no estimate,,,,,,,,,,,,0
+45,P427421,Drunk Elephant,Protini Polypeptide Firming Refillable Moisturizer,Skincare,411372,Still no estimate,,,,,,,,,,,,0
+46,P293605,Laura Mercier,Caviar Stick Eye Shadow,Makeup,410184,Still no estimate,,,,,,,,,,,,0
+54,P448854,Tower 28 Beauty,ShineOn Lip Jelly Non-Sticky Gloss,Makeup,383024,Still no estimate,,,,,,,,,,,,0
+55,P278610,tarte,Amazonian Clay 12-Hour Blush,Makeup,375001,Still no estimate,,,,,,,,,,,,0
+57,P377710,Yves Saint Laurent,Rouge Volupté Shine Lipstick Balm,Makeup,373458,Still no estimate,,,,,,,,,,,,0
+58,P479343,Rare Beauty by Selena Gomez,Warm Wishes Effortless Bronzer Sticks,Makeup,361417,Still no estimate,,,,,,,,,,,,0
+59,P403812,tarte,Tartelette In Bloom Clay Eyeshadow Palette,Makeup,359779,Still no estimate,,,,,,,,,,,,0
+60,P434002,Charlotte Tilbury,Hollywood Contour Wand,Makeup,359114,Still no estimate,,,,,,,,,,,,0
+61,P433530,Charlotte Tilbury,Matte Revolution Lipstick,Makeup,340123,Still no estimate,,,,,,,,,,,,0
+62,P427420,The Ordinary,Multi-Peptide + HA Serum,Skincare,338410,Still no estimate,,,,,,,,,,,,0
+63,P436148,Kaja,Eye Bento Bouncy Eyeshadow Trio,Makeup,334894,Still no estimate,,,,,,,,,,,,0
+64,P387906,NARS,Audacious Lipstick,Makeup,330693,Still no estimate,,,,,,,,,,,,0
+65,P407636,Too Faced,Melted Matte Liquid Lipstick,Makeup,329418,Still no estimate,,,,,,,,,,,,0
+67,P58930227,Anastasia Beverly Hills,Soft Glam Eyeshadow Palette,Makeup,329192,Still no estimate,,,,,,,,,,,,0
+69,P311138,KVD Beauty,Lock-It Full-Coverage Long-Wear Matte Liquid Foundation,Makeup,326766,Still no estimate,,,,,,,,,,,,0
+70,P433402,HUDA BEAUTY,Easy Bake Loose Baking & Setting Powder,Makeup,326279,Still no estimate,,,,,,,,,,,,0
+71,P409317,Smashbox,Always On Longwear Matte Liquid Lipstick,Makeup,325180,Still no estimate,,,,,,,,,,,,0
+73,P264900,Benefit Cosmetics,The POREfessional Pore Minimizing Primer,Makeup,323589,Still no estimate,,,,,,,,,,,,0
+74,P421275,Peace Out,Salicylic Acid Acne Healing Dots,Skincare,316297,Still no estimate,,,,,,,,,,,,0
+75,P422083,Laura Mercier,Mini Translucent Loose Setting Powder,Mini Size,315024,Still no estimate,,,,,,,,,,,,0
+76,P467607,Charlotte Tilbury,Mini Hollywood Flawless Filter,Mini Size,313943,Still no estimate,,,,,,,,,,,,0
+77,P289307,Benefit Cosmetics,They're Real! Lengthening Mascara,Makeup,308584,Still no estimate,,,,,,,,,,,,0
+79,P470025,Fenty Beauty by Rihanna,Eaze Drop Blurring Skin Tint,Makeup,306238,Still no estimate,,,,,,,,,,,,0
+80,P284716,Urban Decay,Eyeshadow Primer Potion,Makeup,305092,Still no estimate,,,,,,,,,,,,0
+82,P430969,MAKE UP FOR EVER,"Artist Color Pencil Brow, Eye & Lip Liner",Makeup,303646,Still no estimate,,,,,,,,,,,,0
+83,P454380,Supergoop!,Unseen Sunscreen SPF 40 PA+++,Skincare,302951,Still no estimate,,,,,,,,,,,,0
+85,P400259,Drunk Elephant,C-Firma Fresh Vitamin-C Day Serum,Skincare,300467,Still no estimate,,,,,,,,,,,,0
+86,P248407,First Aid Beauty,Ultra Repair Cream Intense Hydration,Skincare,300432,Still no estimate,,,,,,,,,,,,0
+87,P230234,SEPHORA COLLECTION,Retractable Waterproof Eyeliner,Makeup,297148,Still no estimate,,,,,,,,,,,,0
+88,P427413,The Ordinary,Lactic Acid 10% + HA 2% Exfoliating Serum,Skincare,295071,Still no estimate,,,,,,,,,,,,0
+89,P410532,Hourglass,Vanish Seamless Finish Foundation Stick,Makeup,292871,Still no estimate,,,,,,,,,,,,0
+90,P409239,Benefit Cosmetics,Gimme Brow+ Tinted Volumizing Eyebrow Gel,Makeup,292562,Still no estimate,,,,,,,,,,,,0
+91,P392246,Drunk Elephant,T.L.C. Framboos Glycolic Resurfacing Night Serum,Skincare,290028,Still no estimate,,,,,,,,,,,,0
+92,P500423,The Ordinary,Multi-Peptide Lash and Brow Serum,Makeup,288362,Still no estimate,,,,,,,,,,,,0
+93,P377784,SEPHORA COLLECTION,12 Hour Contour Pencil Eyeliner,Makeup,287102,Still no estimate,,,,,,,,,,,,0
+94,P74312,Urban Decay,Heavy Metal Glitter Eyeliner,Makeup,286897,Still no estimate,,,,,,,,,,,,0
+96,P308201,Lancôme,Teint Idole Ultra 24H Long Wear Matte Foundation,Makeup,285527,Still no estimate,,,,,,,,,,,,0
+97,P7880,fresh,Soy Hydrating Gentle Face Cleanser,Skincare,282865,Still no estimate,,,,,,,,,,,,0
+98,P427416,The Ordinary,Caffeine 5% + EGCG Depuffing Eye Serum,Skincare,281928,Still no estimate,,,,,,,,,,,,0
+99,P479338,NARS,Light Reflecting Advanced Skincare Foundation,Makeup,281913,Still no estimate,,,,,,,,,,,,0
+100,P421813,PAT McGRATH LABS,MatteTrance Lipstick,Makeup,280428,Still no estimate,,,,,,,,,,,,0
+101,P408219,Benefit Cosmetics,"Precisely, My Brow Pencil Waterproof Eyebrow Definer",Makeup,278187,Still no estimate,,,,,,,,,,,,0
+102,P378821,Urban Decay,24/7 Moondust Eyeshadow,Makeup,278053,Still no estimate,,,,,,,,,,,,0
+103,P85225585,Fenty Beauty by Rihanna,Diamond Bomb All-Over Diamond Veil,Makeup,276524,Still no estimate,,,,,,,,,,,,0
+104,P394534,Yves Saint Laurent,Black Opium Eau de Parfum,Fragrance,276396,Still no estimate,,,,,,,,,,,,0
+105,P469502,Paula's Choice,Skin Perfecting 2% BHA Liquid Exfoliant,Skincare,275846,Still no estimate,,,,,,,,,,,,0
+106,P415777,Drunk Elephant,T.L.C. Sukari Babyfacial AHA + BHA Mask,Skincare,274915,Still no estimate,,,,,,,,,,,,0
+107,P441814,MILK MAKEUP,Mini Hydro Grip Hydrating Makeup Primer,Makeup,270077,Still no estimate,,,,,,,,,,,,0
+108,P384963,Hourglass,Ambient Lighting Blush Collection,Makeup,267732,Still no estimate,,,,,,,,,,,,0
+109,P409800,SEPHORA COLLECTION,Cleansing & Exfoliating Wipes,Skincare,266116,Still no estimate,,,,,,,,,,,,0
+110,P461147,Charlotte Tilbury,Airbrush Flawless Setting Spray,Makeup,265470,Still no estimate,,,,,,,,,,,,0
+111,P394639,belif,The True Cream Aqua Bomb,Skincare,265050,Still no estimate,,,,,,,,,,,,0
+112,P19700127,Fenty Beauty by Rihanna,Cheeks Out Freestyle Cream Blush,Makeup,264233,Still no estimate,,,,,,,,,,,,0
+113,P49848448,Rare Beauty by Selena Gomez,Liquid Touch Weightless Foundation,Makeup,263393,Still no estimate,,,,,,,,,,,,0
+114,P309308,Sunday Riley,Good Genes All-In-One AHA Lactic Acid Treatment,Skincare,262434,Still no estimate,,,,,,,,,,,,0
+115,P64546856,Rare Beauty by Selena Gomez,Liquid Touch Brightening Concealer,Makeup,261155,Still no estimate,,,,,,,,,,,,0
+116,P433172,Olaplex,No. 4 Bond Maintenance Shampoo,Hair,259602,Still no estimate,,,,,,,,,,,,0
+117,P88779809,Fenty Beauty by Rihanna,Pro Filt’r Instant Retouch Longwear Liquid Concealer,Makeup,259486,Still no estimate,,,,,,,,,,,,0
+118,P467451,Rare Beauty by Selena Gomez,Stay Vulnerable Melting Cream Blush,Makeup,258873,Still no estimate,,,,,,,,,,,,0
+119,P441831,Olaplex,No. 6 Bond Smoother Reparative Styling Creme,Hair,258870,Still no estimate,,,,,,,,,,,,0
+120,P427414,The Ordinary,Natural Moisturizing Factors + HA,Skincare,258456,Still no estimate,,,,,,,,,,,,0
+121,P449342,Tower 28 Beauty,BeachPlease Lip + Cheek Cream Blush,Makeup,257946,Still no estimate,,,,,,,,,,,,0
+122,P12495,CHANEL,COCO MADEMOISELLE Eau de Parfum,Fragrance,257774,Still no estimate,,,,,,,,,,,,0
+123,P421485,NARS,Powermatte Lip Pigment,Makeup,257219,Still no estimate,,,,,,,,,,,,0
+124,P444048,Sol de Janeiro,Bum Bum Jet Set,Bath & Body,256184,Still no estimate,,,,,,,,,,,,0
+125,P433173,Olaplex,No. 5 Bond Maintenance Conditioner,Hair,255670,Still no estimate,,,,,,,,,,,,0
+126,P442831,The Ordinary,Multi-Peptide Serum for Hair Density,Hair,254620,Still no estimate,,,,,,,,,,,,0
+127,P73124556,Fenty Beauty by Rihanna,Match Stix Shimmer Skinstick,Makeup,253173,Still no estimate,,,,,,,,,,,,0
+128,P458219,Glow Recipe,Watermelon Glow PHA + BHA Pore-Tight Toner,Skincare,252846,Still no estimate,,,,,,,,,,,,0
+129,P43818047,HUDA BEAUTY,The New Nude Eyeshadow Palette,Makeup,252554,Still no estimate,,,,,,,,,,,,0
+130,P437097,MILK MAKEUP,Lip + Cheek Cream Blush Stick,Makeup,251478,Still no estimate,,,,,,,,,,,,0
+131,P386335,Anastasia Beverly Hills,Contour Kit,Makeup,251086,Still no estimate,,,,,,,,,,,,0
+132,P440307,Youth To The People,Superberry Hydrate + Glow Dream Night Mask with Vitamin C,Skincare,248887,Still no estimate,,,,,,,,,,,,0
+133,P421481,Sol de Janeiro,Mini Brazilian Crush Body Fragrance Mist,Mini Size,247502,Still no estimate,,,,,,,,,,,,0
+134,P284507,SEPHORA COLLECTION,Sephora Colorful Waterproof Eyeshadow & Eyeliner Multi-Stick,Makeup,246559,Still no estimate,,,,,,,,,,,,0
+135,P427536,Tatcha,The Deep Cleanse Gentle Exfoliating Cleanser,Skincare,245976,Still no estimate,,,,,,,,,,,,0
+136,P417312,Sol de Janeiro,Brazilian Crush Cheirosa ’62 Bum Bum Hair & Body Fragrance Mist,Fragrance,245440,Still no estimate,,,,,,,,,,,,0
+137,P454762,Dior,BACKSTAGE Rosy Glow Blush,Makeup,244438,Still no estimate,,,,,,,,,,,,0
+138,P503711,Rare Beauty by Selena Gomez,Positive Light Silky Touch Highlighter,Makeup,244183,Still no estimate,,,,,,,,,,,,0
+139,P473708,Fenty Beauty by Rihanna,Gloss Bomb Heat Universal Lip Luminizer + Plumper,Makeup,243370,Still no estimate,,,,,,,,,,,,0
+140,P415438,SEPHORA COLLECTION,Lip Balm & Scrub,Makeup,241554,Still no estimate,,,,,,,,,,,,0
+142,P427415,The Ordinary,100% Organic Cold-Pressed Rose Hip Seed Oil,Skincare,240783,Still no estimate,,,,,,,,,,,,0
+143,P481114,MAKEUP BY MARIO,MoistureGlow Plumping Lip Serum,Makeup,239935,Still no estimate,,,,,,,,,,,,0
+144,P9889,Smashbox,Photo Finish Smooth & Blur Oil-Free Foundation Primer,Makeup,239217,Still no estimate,,,,,,,,,,,,0
+145,P433523,Charlotte Tilbury,Luxury Eyeshadow Palette,Makeup,237828,Still no estimate,,,,,,,,,,,,0
+146,P401715,SEPHORA COLLECTION,Retractable Rouge Gel Lip Liner,Makeup,236197,Still no estimate,,,,,,,,,,,,0
+147,P450887,HUDA BEAUTY,Nude Obsessions Eyeshadow Palette,Makeup,236129,Still no estimate,,,,,,,,,,,,0
+148,P467754,Charlotte Tilbury,Mini Airbrush Flawless Finish Setting Powder,Makeup,234562,Still no estimate,,,,,,,,,,,,0
+149,P269122,Dr. Dennis Gross Skincare,Alpha Beta Extra Strength Daily Peel Pads,Skincare,234295,Still no estimate,,,,,,,,,,,,0
+150,P427647,MAKE UP FOR EVER,Artist Color Eye Shadow,Makeup,232369,Still no estimate,,,,,,,,,,,,0
+151,P55978864,Fenty Beauty by Rihanna,Sun Stalk'r Instant Warmth Bronzer,Makeup,231534,Still no estimate,,,,,,,,,,,,0
+152,P388225,Urban Decay,Naked2 Basics Eyeshadow Palette,Mini Size,231052,Still no estimate,,,,,,,,,,,,0
+153,P404827,Anastasia Beverly Hills,Brow Definer 3-in-1 Triangle Tip,Makeup,231041,Still no estimate,,,,,,,,,,,,0
+154,P456218,Supergoop!,Glowscreen Sunscreen SPF 40 PA+++ with Hyaluronic Acid + Niacinamide,Skincare,231004,Still no estimate,,,,,,,,,,,,0
+155,P431750,ILIA,Limitless Lash Lengthening Clean Mascara,Makeup,229614,Still no estimate,,,,,,,,,,,,0
+156,P393411,Armani Beauty,Lip Maestro Liquid Matte Lipstick,Makeup,229025,Still no estimate,,,,,,,,,,,,0
+157,P406576,Anastasia Beverly Hills,Sun Dipped Glow Kit,Makeup,228037,Still no estimate,,,,,,,,,,,,0
+158,P393356,bareMinerals,COMPLEXION RESCUE Tinted Moisturizer with Hyaluronic Acid and Mineral SPF 30,Makeup,227404,Still no estimate,,,,,,,,,,,,0
+159,P482750,tarte,Maracuja Juicy Lip Plump,Makeup,225353,Still no estimate,,,,,,,,,,,,0
+160,P422568,TOM FORD,Eye Color Quad Eyeshadow Palette,Makeup,223284,Still no estimate,,,,,,,,,,,,0
+161,P87987897,Rare Beauty by Selena Gomez,Lip Soufflé Matte Cream Lipstick,Makeup,222682,Still no estimate,,,,,,,,,,,,0
+162,P404797,MILK MAKEUP,Matte Cream Bronzer Stick,Makeup,221334,Still no estimate,,,,,,,,,,,,0
+163,P434101,Charlotte Tilbury,Eyes To Mesmerize Cream Eyeshadow,Makeup,220095,Still no estimate,,,,,,,,,,,,0
+164,P458747,PATRICK TA,Major Beauty Headlines - Double-Take Crème & Powder Blush,Makeup,218384,Still no estimate,,,,,,,,,,,,0
+165,P210575,Hourglass,Veil Mineral Primer,Makeup,217213,Still no estimate,,,,,,,,,,,,0
+166,P406712,Drunk Elephant,B-Hydra Intensive Hydration Serum with Hyaluronic Acid,Skincare,216418,Still no estimate,,,,,,,,,,,,0
+167,P439926,Drunk Elephant,A-Passioni Retinol Cream,Skincare,214435,Still no estimate,,,,,,,,,,,,0
+168,P392516,Benefit Cosmetics,Roller Lash Curling & Lifting Mascara,Makeup,213327,Still no estimate,,,,,,,,,,,,0
+169,P378111,Too Faced,Lip Injection Extreme Hydrating Lip Plumper,Makeup,213097,Still no estimate,,,,,,,,,,,,0
+170,P407907,Too Faced,Sweet Peach Eyeshadow Palette,Makeup,211853,Still no estimate,,,,,,,,,,,,0
+171,P461148,Charlotte Tilbury,Mini Airbrush Flawless Setting Spray,Makeup,211352,Still no estimate,,,,,,,,,,,,0
+172,P266811,SEPHORA COLLECTION,Ultra Shine Lip Gloss,Makeup,211206,Still no estimate,,,,,,,,,,,,0
+173,P411540,Dr. Jart+,Cicapair Tiger Grass Color Correcting Treatment SPF 30,Skincare,210786,Still no estimate,,,,,,,,,,,,0
+174,P431180,Isle of Paradise,Self Tanning Bronzing Face Drops,Skincare,209716,Still no estimate,,,,,,,,,,,,0
+175,P399623,Tatcha,Luminous Dewy Skin Mist,Skincare,209577,Still no estimate,,,,,,,,,,,,0
+176,P69304,Anastasia Beverly Hills,Strong Hold Clear Brow Gel,Makeup,209498,Still no estimate,,,,,,,,,,,,0
+177,P422455,Urban Decay,Mini All Nighter Long-Lasting Makeup Setting Spray,Mini Size,208071,Still no estimate,,,,,,,,,,,,0
+178,P431852,PAT McGRATH LABS,LUST: Lip Gloss,Makeup,207742,Still no estimate,,,,,,,,,,,,0
+180,P468685,Kosas,Cloud Set Baked Setting & Smoothing Talc-Free Vegan Powder,Makeup,207311,Still no estimate,,,,,,,,,,,,0
+181,P412090,Moroccanoil,Moroccanoil Treatment Hair Oil,Hair,206601,Still no estimate,,,,,,,,,,,,0
+182,P442840,Skinfix,Barrier+ Triple Lipid-Peptide Face Cream,Skincare,206494,Still no estimate,,,,,,,,,,,,0
+183,P420913,Urban Decay,Naked Heat Eyeshadow Palette,Makeup,206040,Still no estimate,,,,,,,,,,,,0
+184,P472327,MAKEUP BY MARIO,SoftSculpt Shaping Stick,Makeup,204467,Still no estimate,,,,,,,,,,,,0
+185,P390722,Givenchy,Prisme Libre Loose Setting and Finishing Powder,Makeup,204028,Still no estimate,,,,,,,,,,,,0
+186,P453225,Tatcha,The Kissu Lip Mask,Skincare,202204,Still no estimate,,,,,,,,,,,,0
+187,P421996,Kiehl's Since 1851,Ultra Facial Moisturizing Cream with Squalane,Skincare,201776,Still no estimate,,,,,,,,,,,,0
+188,P432504,Dior,BACKSTAGE Eyeshadow Palette,Makeup,201544,Still no estimate,,,,,,,,,,,,0
+189,P444989,First Aid Beauty,KP Bump Eraser Body Scrub with 10% AHA,Bath & Body,201467,Still no estimate,,,,,,,,,,,,0
+190,P443842,The INKEY List,Retinol Anti-Aging Serum,Skincare,200087,Still no estimate,,,,,,,,,,,,0
+191,P425318,Sol de Janeiro,Mini Brazilian Bum Bum Cream,Mini Size,197588,Still no estimate,,,,,,,,,,,,0
+192,P469825,Saie,Dew Blush Liquid Cheek Blush,Makeup,197469,Still no estimate,,,,,,,,,,,,0
+193,P441880,HUDA BEAUTY,Power Bullet Matte Lipstick,Makeup,197231,Still no estimate,,,,,,,,,,,,0
+194,P427418,The Ordinary,Granactive Retinoid* 2% Emulsion,Skincare,195325,Still no estimate,,,,,,,,,,,,0
+195,P468353,Danessa Myricks Beauty,"Colorfix Eye, Cheek & Lip Cream Pigment",Makeup,195284,Still no estimate,,,,,,,,,,,,0
+196,P413458,KVD Beauty,Shade + Light Refillable Powder Face Contour Palette,Makeup,195102,Still no estimate,,,,,,,,,,,,0
+197,P297524,Origins,Clear Improvement Active Charcoal Mask to Clear Pores,Skincare,194892,Still no estimate,,,,,,,,,,,,0
+198,P465757,Fenty Beauty by Rihanna,Gloss Bomb Cream Color Drip Lip Cream,Makeup,194099,Still no estimate,,,,,,,,,,,,0
+199,P109936,Laura Mercier,Tinted Moisturizer Natural Skin Perfector Broad Spectrum SPF 30,Makeup,193421,Still no estimate,,,,,,,,,,,,0
+200,P218431,Yves Saint Laurent,Touche Éclat All-Over Brightening Concealer Pen,Makeup,193037,Still no estimate,,,,,,,,,,,,0
+201,P411848,ILIA,Multi-Stick Cream Blush + Highlighter + Lip Tint,Makeup,190924,Still no estimate,,,,,,,,,,,,0
+202,P395532,SEPHORA COLLECTION,Lip Liner To Go,Makeup,190809,Still no estimate,,,,,,,,,,,,0
+203,P45433019,Fenty Beauty by Rihanna,Snap Shadows Mix & Match Eyeshadow Palette,Makeup,190602,Still no estimate,,,,,,,,,,,,0
+204,P461537,Tatcha,The Rice Wash Skin-Softening Cleanser,Skincare,190401,Still no estimate,,,,,,,,,,,,0

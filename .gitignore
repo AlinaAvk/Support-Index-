@@ -1,0 +1,18 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+node_modules
+outputs/
+sephora_kaggle.zip
+product_info.csv
+README_STREAMLIT.md
+analyze_*.py
+build_*.mjs
+prepare_*.py
+
+# Keep only the three processed datasets required by the deployed app.
+analysis_work/*
+!analysis_work/searchability_gap_product_results.csv
+!analysis_work/searchability_gap_keyword_results.csv
+!analysis_work/searchability_gap_variant_summary.csv
